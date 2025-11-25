@@ -1,1 +1,0 @@
-import{s as o}from"./decorators.BgnUeXIv.js";import{g as t,h as s,m as r}from"./catalogData.COU9AyCF.js";const e={},a=t(r,s),i={component:e},d={args:{lang:"it",items:a},decorators:[o("Card list",!1,"list")],parameters:{layout:"padded"}};export{d as Default,i as default};
