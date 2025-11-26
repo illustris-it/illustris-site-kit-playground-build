@@ -1,0 +1,1 @@
+const e={},t={},o={title:"Catalogo sezioni",component:e},a={render:()=>e(),parameters:{layout:"fullscreen"}},l={render:()=>t(),parameters:{layout:"fullscreen"}};export{l as GalleryPage,a as HomeCatalog,o as default};
